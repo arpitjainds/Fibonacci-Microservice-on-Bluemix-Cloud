@@ -123,10 +123,8 @@ Under the `tester` directory is a simple web application to register and test th
 * Clone the app to your local environment from your terminal using the following command:
 
    ```
-   git clone https://github.com/IBM-Bluemix/multiple-deployment-options.git
+   git clone https://github.com/arpitjainds/Fibonacci-Microservice-on-Bluemix-Cloud.git
    ```
-
-* or Download and extract the source code from [this archive](https://github.com/IBM-Bluemix/multiple-deployment-options/archive/master.zip)
 
 ## Deploy the service as a Cloud Foundry application
 
