@@ -1,5 +1,5 @@
 # Fibonacci-Microservice-on-Bluemix-Cloud
-Creation and deployment of Sample Fibonacci Microservice on Bluemix Cloud.
+Creation and deployment of Sample Fibonacci Microservice on Bluemix Cloud.[(Original)](https://github.com/IBM-Cloud/multiple-deployment-options)
 
 This project gets deployed:
 
